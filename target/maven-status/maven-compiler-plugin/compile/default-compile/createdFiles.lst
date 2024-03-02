@@ -1,0 +1,11 @@
+org/training/boot/secuity/securitydemogeneric/service/UserDetail.class
+org/training/boot/secuity/securitydemogeneric/dto/SignUpDto.class
+org/training/boot/secuity/securitydemogeneric/entity/Role.class
+org/training/boot/secuity/securitydemogeneric/controller/HomeController.class
+org/training/boot/secuity/securitydemogeneric/repository/UserRepository.class
+org/training/boot/secuity/securitydemogeneric/dto/LoginDto.class
+org/training/boot/secuity/securitydemogeneric/ServletInitializer.class
+org/training/boot/secuity/securitydemogeneric/SecurityDemoGenericApplication.class
+org/training/boot/secuity/securitydemogeneric/repository/RoleRepository.class
+org/training/boot/secuity/securitydemogeneric/security/SecurityConfig.class
+org/training/boot/secuity/securitydemogeneric/entity/User.class

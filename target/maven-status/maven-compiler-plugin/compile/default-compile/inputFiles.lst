@@ -1,0 +1,11 @@
+/Users/menzli.khemais/WIP/workspace/kmenzli/back-office/springframework/springboot/boot-security/spring-security-demo-basic/src/main/java/org/training/boot/secuity/securitydemogeneric/ServletInitializer.java
+/Users/menzli.khemais/WIP/workspace/kmenzli/back-office/springframework/springboot/boot-security/spring-security-demo-basic/src/main/java/org/training/boot/secuity/securitydemogeneric/dto/SignUpDto.java
+/Users/menzli.khemais/WIP/workspace/kmenzli/back-office/springframework/springboot/boot-security/spring-security-demo-basic/src/main/java/org/training/boot/secuity/securitydemogeneric/controller/HomeController.java
+/Users/menzli.khemais/WIP/workspace/kmenzli/back-office/springframework/springboot/boot-security/spring-security-demo-basic/src/main/java/org/training/boot/secuity/securitydemogeneric/repository/UserRepository.java
+/Users/menzli.khemais/WIP/workspace/kmenzli/back-office/springframework/springboot/boot-security/spring-security-demo-basic/src/main/java/org/training/boot/secuity/securitydemogeneric/SecurityDemoGenericApplication.java
+/Users/menzli.khemais/WIP/workspace/kmenzli/back-office/springframework/springboot/boot-security/spring-security-demo-basic/src/main/java/org/training/boot/secuity/securitydemogeneric/service/UserDetail.java
+/Users/menzli.khemais/WIP/workspace/kmenzli/back-office/springframework/springboot/boot-security/spring-security-demo-basic/src/main/java/org/training/boot/secuity/securitydemogeneric/dto/LoginDto.java
+/Users/menzli.khemais/WIP/workspace/kmenzli/back-office/springframework/springboot/boot-security/spring-security-demo-basic/src/main/java/org/training/boot/secuity/securitydemogeneric/entity/Role.java
+/Users/menzli.khemais/WIP/workspace/kmenzli/back-office/springframework/springboot/boot-security/spring-security-demo-basic/src/main/java/org/training/boot/secuity/securitydemogeneric/repository/RoleRepository.java
+/Users/menzli.khemais/WIP/workspace/kmenzli/back-office/springframework/springboot/boot-security/spring-security-demo-basic/src/main/java/org/training/boot/secuity/securitydemogeneric/security/SecurityConfig.java
+/Users/menzli.khemais/WIP/workspace/kmenzli/back-office/springframework/springboot/boot-security/spring-security-demo-basic/src/main/java/org/training/boot/secuity/securitydemogeneric/entity/User.java
